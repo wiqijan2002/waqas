@@ -1,0 +1,11 @@
+C:\Users\waqas\source\repos\Databases\Databases\bin\Debug\Databases.exe.config
+C:\Users\waqas\source\repos\Databases\Databases\bin\Debug\Databases.exe
+C:\Users\waqas\source\repos\Databases\Databases\bin\Debug\Databases.pdb
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.csprojAssemblyReference.cache
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.Form1.resources
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.Properties.Resources.resources
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.csproj.GenerateResource.cache
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.csproj.CoreCompileInputs.cache
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.exe
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.pdb
+C:\Users\waqas\source\repos\Databases\Databases\obj\Debug\Databases.Main.resources
