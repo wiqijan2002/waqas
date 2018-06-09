@@ -39,5 +39,10 @@ namespace Databases
             else
                 MessageBox.Show("please check username and password");
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
